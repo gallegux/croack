@@ -1,0 +1,50 @@
+#croack
+
+url=https://nube.castillalamancha.es/index.php/s/391VlG5qxM4UwAN/download
+
+java-min-version=8
+run-without-check=false
+main-class=croack.Main
+
+0.url=http://gallegux.com/croack-core.jar
+0.file=https://nube.castillalamancha.es/index.php/s/BUwHOQq4kHbXRkg/download
+0.store=false
+
+1.url=http://apache.org/commons-logging.jar
+1.file=https://nube.castillalamancha.es/index.php/s/goshDtqEOd0n6FW/download
+1.store=true
+
+2.url=http://apache.org/httpclient-4.2.3.jar
+2.file=https://nube.castillalamancha.es/index.php/s/qmyVzXz1H4L7HOJ/download
+2.store=true
+
+3.url=http://apache.org/httpclient-cache-4.2.3.jar
+3.file=https://nube.castillalamancha.es/index.php/s/dtMr7d765WoNJtW/download
+3.store=true
+
+4.url=http://apache.org/httpcore-4.2.3.jar
+4.file=https://nube.castillalamancha.es/index.php/s/4AKBoAc9Vabv9zu/download
+4.store=true
+
+5.url=http://gallegux.com/gly.jar
+5.file=https://nube.castillalamancha.es/index.php/s/VohFMTiHiEMnJHO/download
+5.store=false
+
+6.url=http://gallegux.com/croack-rsrc.jar
+6.file=https://nube.castillalamancha.es/index.php/s/84GunQ7xI44RSGn/download
+6.store=true
+
+0.crc32=2489556512
+0.version=2021-02-23 10:43:22
+1.crc32=3420158953
+1.version=2020-12-10 10:16:33
+2.crc32=573684205
+2.version=2020-12-10 10:16:33
+3.crc32=1748895523
+3.version=2020-12-10 10:16:33
+4.crc32=391788043
+4.version=2020-12-10 10:16:33
+5.crc32=825888443
+5.version=2020-12-10 10:16:33
+6.crc32=3954461729
+6.version=2021-02-23 10:48:19

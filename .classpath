@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/ffgr33/java/java-lib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/ffgr33/java/java-lib/httpclient-cache-4.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/ffgr33/java/java-lib/httpcore-4.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/ffgr33/java/java-lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/gly.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
